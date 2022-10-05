@@ -1,7 +1,5 @@
-### Welcome to my profile! 💻
+### Bem vindo!! 💻
 
-- 🔭 I’m currently working on Suport and making personal projects for study;
-- 🌱 I’m currently learning Javascript, HTML, CSS, React and MySQL;
 - 📫 How to reach me: gvtramontin@gmail.com;
 - 👾 Learning about Front-end.
 ##
