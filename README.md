@@ -1,7 +1,7 @@
 ### Bem vindo!! 💻
 
 - 📫 How to reach me: gvtramontin@gmail.com;
-- 👾 Learning about Front-end.
+- 👾 Learning to code!
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramontinn&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
