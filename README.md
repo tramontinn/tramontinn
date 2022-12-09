@@ -1,9 +1,8 @@
 ### Bem vindo!! 💻
 
-- Actually, I am currently studying to become a Developer.
+-  Studying to be a developer.
 - I'm in the 5º semester of Computer science.
-- 📫 How to reach me: gvtramontin@gmail.com;
-- 👾 Learning to code!
+- My e-mail gvtramontin@gmail.com.
  
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramontinn&show_icons=true&theme=radical)
