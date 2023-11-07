@@ -1,8 +1,7 @@
 ### Bem vindo!! 💻
 
--  Studying to be a developer.
-- I'm in the 5º semester of Computer science.
-- My e-mail gvtramontin@gmail.com.
+- Graduando de ciencia da computação na Universidade La Salle.
+- E-mail: gvtramontin@gmail.com.
  
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramontinn&show_icons=true&theme=radical)
