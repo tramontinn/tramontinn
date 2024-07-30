@@ -2,6 +2,8 @@
 
 - Graduando de ciencia da computação na Universidade La Salle.
 - E-mail: gvtramontin@gmail.com.
+
+  Atualmente estou estudando Python com foco em análise de dados onde pretendo atuar futuramente.
  
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramontinn&show_icons=true&theme=radical)
