@@ -3,7 +3,7 @@
 - Graduando de ciencia da computação na Universidade La Salle.
 - Fique a vontade para me contar via e-mail: gvtramontin@gmail.com.
 
-Atualmente estou estudando Python com foco em análise de dados, porém já atuei como desenvolvedor Front-end para uma empresa na cidade onde moro.
+Atualmente estou estudando SQL e Python com foco na análise e engenharia de dados. Já atuei como desenvolvedor Front-end para uma empresa na cidade onde moro, onde faziamos as migrações e injestão dos dados fornecidos via arquivos.
  
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramontinn&show_icons=true&theme=transparent)
